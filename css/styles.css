@@ -270,7 +270,7 @@ button {
   text-transform: capitalize;
 }
 
-.image-portfolio {
+.project-card {
   display: flex;
   width: 360px;
   height: 420px;
